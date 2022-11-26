@@ -1,5 +1,5 @@
-# printf
-joslopez's 42 ft_printf Score
+# ft_printf
+
 ft_printf
 Function printf (derivated of the name "print formatted") prints a screen message using a "format chain" that includes instructions to mix multiple chains in the final chain to show on the screen. In this project, we have to replicate how the function works to implement on our libft.
 
